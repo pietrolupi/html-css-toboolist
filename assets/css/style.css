@@ -7,6 +7,10 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 
+main{
+  background-color: red;
+  padding-top: 60px;
+}
 
 header {
   padding: 15px 25px;
@@ -20,12 +24,18 @@ header img {
 }
 header h1{
   display: inline-block;
-  font-size: 3rem;
+  font-size: 3.2rem;
   vertical-align: middle;
+  font-weight: 900;
+
 }
 
 
+
 .container {
-  margin: 0 auto;
-  width: 50%;
+  margin:auto;
+  width: 70%;
+  background-color:white;
+  border-radius: 5px;
+  min-height: 5000px;
 }
