@@ -30,12 +30,35 @@ header h1{
 
 }
 
-
+/* MAIN SECTION1 */
 
 .container {
   margin:auto;
   width: 70%;
   background-color:white;
   border-radius: 5px;
-  min-height: 5000px;
+  min-height: 200px;
+}
+.buttons-section{
+  padding-left: 60px;
+  padding-top: 16px;
+  padding-bottom:20px ;
+  border-bottom: 2px solid black;
+}
+.buttons-section button {
+  padding: 7px 15px;
+  border-radius: 7px;
+  font-size: 1rem;
+  
+}
+
+.button-one {
+  color: white;
+  background-color: #47adf1 ;
+  border: 1px solid #47adf1;
+}
+.button-two{
+  color: #d5d9dd;
+  background-color: white;
+  border: 1px solid #d5d9dd;
 }
