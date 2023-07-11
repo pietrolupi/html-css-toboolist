@@ -10,6 +10,7 @@
 main{
   background-color: red;
   padding-top: 60px;
+  
 }
 
 header {
@@ -82,7 +83,6 @@ h2{
   color: #444851;
   padding-left: 60px;
   padding-top: 17px;
-  min-height: 200px;
 
 }
 .sign{
@@ -114,4 +114,22 @@ h2{
 
 .colored-button.editorial{
   background-color: #47adf1;
+}
+
+.colored-button.q1goals{
+  background-color:#9c72e4;
+}
+
+.colored-button.recruiting{
+  background-color:#64c0a9 ;
+}
+
+.colored-button.mobile{
+  background-color: #f29e33;
+}
+.colored-button.website{
+  background-color: #d863a1;
+}
+.colored-button.sales{
+  background-color: #b0c926;
 }
