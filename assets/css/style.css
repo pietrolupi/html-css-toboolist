@@ -8,9 +8,9 @@
 }
 
 main{
-  background-color: red;
+  background-color: #f6f8f9;
   padding-top: 60px;
-  
+  padding-bottom: 20px;
 }
 
 header {
@@ -111,7 +111,7 @@ h2{
   padding: 7px 12px;
   margin-left: 5px;
 }
-
+      /* buttons specific classes */
 .colored-button.editorial{
   background-color: #47adf1;
 }
