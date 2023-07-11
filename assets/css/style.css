@@ -30,20 +30,21 @@ header h1{
 
 }
 
-/* MAIN SECTION1 */
+/* MAIN
+
+SECTION1 */
 
 .container {
   margin:auto;
   width: 70%;
   background-color:white;
   border-radius: 5px;
-  min-height: 200px;
+  margin-bottom: 7px;
 }
 .buttons-section{
   padding-left: 60px;
   padding-top: 16px;
   padding-bottom:20px ;
-  border-bottom: 2px solid black;
 }
 .buttons-section button {
   padding: 7px 15px;
@@ -61,4 +62,37 @@ header h1{
   color: #d5d9dd;
   background-color: white;
   border: 1px solid #d5d9dd;
+}
+
+/* SECTION2 */
+
+ul{
+  list-style-type: none;
+}
+li{
+  padding-top: 10px;
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+.todolist{
+  color: #444851;
+  padding-left: 60px;
+  padding-top: 30px;
+  
+  min-height: 200px;
+
+}
+
+.checksign {
+  font-size: 10px;
+  color: #65c1ab;
+  border: 2px solid #65c1ab;
+  border-radius: 50%;
+  padding: 5px;
+  margin-right: 10px;
+  margin-left: 5px;
+}
+
+.colored-button {
+  
 }
